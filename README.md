@@ -1,5 +1,3 @@
-I am a Senior Developer (I know how to use Claude AI)
+Hey I am Sujit! Currently studying at Finance @ UofA 
 
-I have over 20 years of experience (born 2003)
-
-Just testing stuff out. 
+Just building and testing stuff out to make complex things easier!
